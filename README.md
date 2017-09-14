@@ -1,2 +1,6 @@
 # hello-world
-# changed to v2
+
+# Updated to v2!
+
+New to GitHub
+
